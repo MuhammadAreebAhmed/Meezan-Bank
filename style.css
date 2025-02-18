@@ -110,3 +110,12 @@
     font-weight: bold;
 }
 
+.row {
+    background-color: #701E7D;
+}
+
+.row a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
