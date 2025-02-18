@@ -91,3 +91,14 @@
 .franchise h5 {
     margin-top: 20px;
 }
+
+.award-container {
+    background-color: #EBEBEB;
+    color: #712789;
+    text-align: center;
+}
+
+.award-container a {
+    text-decoration: none;
+    color: #712789;
+}
