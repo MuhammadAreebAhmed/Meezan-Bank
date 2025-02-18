@@ -17,6 +17,10 @@
     border-right: 1px solid grey;   
 }
 
+.Navbar a:hover {
+    background-color: yellow;
+}
+
 .nav-btn button {
     background-color: purple;
     border: none;
@@ -53,5 +57,37 @@
 
 .cart-container h4 {
     color: purple;
+    margin-top: 20px;
+}
+
+.bank-catagories {
+    background-color: #701E7D;
+    color: white;
+    margin-top: 30px;
+}
+
+.franchise {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 60px;
+    margin: 0 auto;
+    width: 70%;
+    gap: 10px;
+
+}
+
+.bank-img {
+    font-size: 60px;
+    background-color: #87428E;
+    border-radius: 100%;
+    padding: 60px 50px 60px 50px;
+    color: white;
+    width: 200px;
+
+    text-align: center;
+}
+
+.franchise h5 {
     margin-top: 20px;
 }
