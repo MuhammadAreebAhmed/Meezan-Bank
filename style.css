@@ -37,3 +37,21 @@
 .nav-btn button span:hover {
     color: purple;
 }
+
+.cart-container {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    gap: 40px;
+    
+}
+
+.cart-container img {
+    width: 300px;
+    height: 250px;
+}
+
+.cart-container h4 {
+    color: purple;
+    margin-top: 20px;
+}
