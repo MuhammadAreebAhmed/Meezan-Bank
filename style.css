@@ -119,3 +119,21 @@
     color: white;
     font-size: 20px;
 }
+
+.container-footer ul li {
+    list-style: none;
+    font-size: 12px;
+    
+}
+.container-footer h5 {
+    font-weight: bold;
+    font-size: 15px;
+   margin: 0 auto;
+}
+
+.Footer {
+    background-color: #712789;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
